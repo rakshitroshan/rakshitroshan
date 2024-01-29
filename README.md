@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+<img src="https://profile-counter.glitch.me/{rakshitroshan}/count.svg" alt="madushadhanushka :: Visitor's Count" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rakshitroshan&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 

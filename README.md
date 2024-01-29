@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <img src="https://profile-counter.glitch.me/{rakshitroshan}/count.svg" alt="madushadhanushka :: Visitor's Count" />
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=rakki2003)](https://github.com/madushadhanushka/github-readme)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=rakki2003)](https://github.com/rakshitroshan/rakshitroshan)
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rakshitroshan&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 

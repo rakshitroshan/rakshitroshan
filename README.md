@@ -1,12 +1,13 @@
 Welcome To My Github 👋
 
 <img src="https://profile-counter.glitch.me/{rakshitroshan}/count.svg" alt="madushadhanushka :: Visitor's Count" />
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=rakki2003)](https://github.com/KnlnKS/leetcode-stats)
+
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rakshitroshan&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=rakki2003)](https://github.com/KnlnKS/leetcode-stats)
 
 
 <!--

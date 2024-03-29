@@ -14,13 +14,11 @@ Welcome To Rakshit Roshan's Github 👋
 **rakshitroshan/rakshitroshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
-
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Generative AI
 - 🌱 I’m currently learning Stable Diffusion
-- 👯 I’m looking to collaborate on Linkedin
-- 📫 How to reach me: ...
+- 👯 I’m looking to collaborate on FULL STACK DEV
+
   
